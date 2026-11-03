@@ -10,12 +10,17 @@ window.PORTFOLIO_DATA = {
     "linkedin": "",
     "location": "Dhaka, Bangladesh",
     "footer": "Ideas deserve intention.",
-    "portrait": "",
+    "portrait": "assets/emon-photo.jpg",
     "resume": "",
-    "theme": "mist",
+    "theme": "pearlglow",
     "layout": "grid",
-    "accent": "#a54d35",
-    "typeface": "modern"
+    "accent": "#9b3578",
+    "typeface": "montserrat",
+    "fontHero": "60",
+    "fontHeading": "50",
+    "fontBody": "14",
+    "fontProject": "25",
+    "portraitSize": "36"
   },
   "experience": [
     {
@@ -77,7 +82,7 @@ window.PORTFOLIO_DATA = {
       "role": "Campaign involvement — detailed contribution to be added.",
       "approach": "Strategic context and creative approach to be added.",
       "outcome": "Results to be added.",
-      "image": "",
+      "image": "assets/nokia-1-plus.jpg",
       "links": []
     },
     {
@@ -92,7 +97,7 @@ window.PORTFOLIO_DATA = {
       "role": "Specific involvement to be added.",
       "approach": "Campaign story and creative details to be added.",
       "outcome": "Results to be added.",
-      "image": "",
+      "image": "\tassets/nokia-chol-aye-dekhi.jpg",
       "links": []
     },
     {
@@ -107,7 +112,7 @@ window.PORTFOLIO_DATA = {
       "role": "Specific involvement to be added.",
       "approach": "Campaign context to be added.",
       "outcome": "Results to be added.",
-      "image": "",
+      "image": "assets/apex4u.jpg",
       "links": []
     },
     {
@@ -137,7 +142,7 @@ window.PORTFOLIO_DATA = {
       "role": "Brand Lead",
       "approach": "Marketing planning across ATL, BTL and digital channels, aligning business priorities and industry audiences.",
       "outcome": "Selected results to be added.",
-      "image": "",
+      "image": "assets/akijbashir-glass.jpg",
       "links": []
     },
     {
@@ -402,12 +407,12 @@ window.PORTFOLIO_DATA = {
       "category": "Building Materials",
       "kind": "OVC",
       "year": "",
-      "featured": false,
+      "featured": true,
       "description": "Anniversary online video campaign.",
       "role": "To be added.",
       "approach": "To be added.",
       "outcome": "To be added.",
-      "image": "",
+      "image": "assets/akij-cement.jpg",
       "links": []
     }
   ],

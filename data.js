@@ -3,13 +3,13 @@ window.PORTFOLIO_DATA = {
   "site": {
     "name": "M S Jahan Emon",
     "eyebrow": "Brand Strategist · Dhaka, Bangladesh",
-    "title": "Strategy shapes the thinking. Creativity brings it to life.",
+    "title": "Strategy Shapes The Thinking. Creativity Brings It To Life.",
     "intro": "I work where brand strategy and creative communication meet, shaping ideas that connect business ambition with people.",
     "about": "I am a brand strategist with 8+ years of experience across digital agencies and corporate marketing. My work spans brand positioning, integrated campaigns, product launches, stakeholder collaboration, and communications for consumer and industrial brands. I have worked across agency and in-house environments, connecting strategic objectives with practical creative execution.",
     "email": "msjahanemon1994@gmail.com",
     "linkedin": "",
     "location": "Dhaka, Bangladesh",
-    "footer": "Ideas deserve intention.",
+    "footer": "Ideas Deserve Intention.",
     "portrait": "assets/emon-photo.jpg",
     "resume": "",
     "theme": "pearlglow",
@@ -22,7 +22,7 @@ window.PORTFOLIO_DATA = {
     "fontProject": "25",
     "portraitSize": "36"
   },
-  "experience": [
+  "Experience": [
     {
       "role": "Brand Lead, AkijBashir Glass · Assistant Manager, Marketing",
       "company": "AkijBashir Group",
@@ -69,7 +69,7 @@ window.PORTFOLIO_DATA = {
       "year": "2017"
     }
   ],
-  "projects": [
+  "Projects": [
     {
       "id": "nokia-1-plus",
       "title": "Nokia 1 Plus",

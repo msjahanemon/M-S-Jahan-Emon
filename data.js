@@ -3,7 +3,7 @@ window.PORTFOLIO_DATA = {
   "site": {
     "name": "M S Jahan Emon",
     "eyebrow": "Brand Strategist · Dhaka, Bangladesh",
-    "title": "Strategy Shapes The Thinking. Creativity Brings It To Life.",
+    "title": "Strategy shapes the thinking. Creativity brings it to life.",
     "intro": "I work where brand strategy and creative communication meet, shaping ideas that connect business ambition with people.",
     "about": "I am a brand strategist with 8+ years of experience across digital agencies and corporate marketing. My work spans brand positioning, integrated campaigns, product launches, stakeholder collaboration, and communications for consumer and industrial brands. I have worked across agency and in-house environments, connecting strategic objectives with practical creative execution.",
     "email": "msjahanemon1994@gmail.com",
@@ -16,13 +16,62 @@ window.PORTFOLIO_DATA = {
     "layout": "grid",
     "accent": "#9b3578",
     "typeface": "montserrat",
-    "fontHero": "60",
+    "fontHero": "53",
     "fontHeading": "50",
     "fontBody": "14",
     "fontProject": "25",
-    "portraitSize": "36"
+    "portraitSize": "36",
+    "mode": "dark",
+    "gradient1": "#c6a8ee",
+    "gradient2": "#ec9bbf",
+    "gradient3": "#f8d7ae",
+    "gradientAngle": "157",
+    "gradientOpacity": "79",
+    "gradientSpeed": "18",
+    "gradientBlur": "65",
+    "heroFontOpacity": "100",
+    "headingOpacity": "100",
+    "bodyOpacity": "100",
+    "projectImageWidth": "100",
+    "projectImageHeight": "300",
+    "projectImageOpacity": "100",
+    "heroVideoWidth": "100",
+    "heroVideoHeight": "184",
+    "heroVideoOpacity": "100",
+    "cursorEnabled": "yes",
+    "cursorSize": "34",
+    "cursorOpacity": "55",
+    "homeOrder": [
+      "video",
+      "hero",
+      "projects",
+      "perspective",
+      "experience",
+      "writing"
+    ],
+    "blockWidths": {
+      "hero": 100
+    },
+    "blockOpacity": {
+      "hero": 95
+    },
+    "lightGradient1": "#b99ae8",
+    "lightGradient2": "#ec78c7",
+    "lightGradient3": "#f4c9ee",
+    "lightAccent": "#a1268a",
+    "darkGradient1": "#5d197e",
+    "darkGradient2": "#e400ab",
+    "darkGradient3": "#38175b",
+    "darkAccent": "#ec40c6",
+    "ambientStrength": "100",
+    "ambientMotion": "yes",
+    "projectImageX": "50",
+    "projectImageY": "50",
+    "heroVideoX": "50",
+    "heroVideoY": "50",
+    "heroVideo": "assets/emon-intro.mp4"
   },
-  "Experience": [
+  "experience": [
     {
       "role": "Brand Lead, AkijBashir Glass · Assistant Manager, Marketing",
       "company": "AkijBashir Group",
@@ -69,7 +118,7 @@ window.PORTFOLIO_DATA = {
       "year": "2017"
     }
   ],
-  "Projects": [
+  "projects": [
     {
       "id": "nokia-1-plus",
       "title": "Nokia 1 Plus",
